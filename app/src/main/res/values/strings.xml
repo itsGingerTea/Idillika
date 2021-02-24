@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Idillika2</string>
+    <string name="btn_rectangle">ПОКАЗАТЬ ТОВАРЫ</string>
+    <string name="empty_title">Ой, пусто!</string>
+    <string name="empty_desc">Ваша корзина пока пуста, добавьте понравившийся товар.</string>
+    <string name="btn_shop_title">Начать покупки</string>
+    <string name="basket">Корзина</string>
+</resources>
